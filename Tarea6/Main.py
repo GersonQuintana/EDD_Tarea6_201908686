@@ -15,3 +15,4 @@ if __name__ == '__main__':
     arbolb.insertar(5)
     arbolb.insertar(6)
     grafo.graficarArbol(arbolb)
+    input("Presione una tecla para terminar ")
